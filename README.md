@@ -19,7 +19,7 @@ Chacun codait une vue qui lui avait été attribué auparavant. Nous réalision 
 - front-default_items.php
 
 ## Gestion des sauvegardes :
-![image](https://github.com/MathisCastell/gilla/assets/148212506/a3539f0c-1ae9-4eef-bc51-06c0fbca5767)
+![image](https://github.com/MathisCastell/gilla/assets/148212506/2c8ca850-9b52-4927-9717-97040bd15761)
 
 
 ## Résultat :
