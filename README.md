@@ -14,9 +14,13 @@ Chacun codait une vue qui lui avait été attribué auparavant. Nous réalision 
 
 # Frontend
 
-fichiers :
+## fichiers :
 - front-Prise_en_chargesModel.php
 - front-default_items.php
+
+## Gestion des sauvegardes :
+![image](https://github.com/MathisCastell/gilla/assets/148212506/a3539f0c-1ae9-4eef-bc51-06c0fbca5767)
+
 
 ## Résultat :
 ![image](https://github.com/MathisCastell/gilla/assets/148212506/d0846846-fd0d-4f9c-a40f-608813aebfda)
