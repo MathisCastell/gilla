@@ -27,6 +27,8 @@ Chacun codait une vue qui lui avait été attribué auparavant. Nous réalision 
 ![image](https://github.com/MathisCastell/gilla/assets/148212506/6125045b-6ce8-4f6a-af5b-a071aa04e986)
 ## Réaliser les tests :
 ![image](https://github.com/MathisCastell/gilla/assets/148212506/480f150b-eb26-4954-82be-c9060d65f13d)
+## Traiter des demandes concernant les applications :
+![image](https://github.com/MathisCastell/gilla/assets/148212506/4a51e6ad-fbef-4f82-b055-93c6b4904e56)
 
 ## Résultat :
 ![image](https://github.com/MathisCastell/gilla/assets/148212506/d0846846-fd0d-4f9c-a40f-608813aebfda)
